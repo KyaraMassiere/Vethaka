@@ -24,6 +24,37 @@ Em vez de utilizar uma única IA para todas as tarefas, o Vethaka é estruturado
 O projeto está em desenvolvimento contínuo e funciona também como ambiente de experimentação prática de **desenvolvimento de software, inteligência artificial, automação, integração de APIs e experiência do usuário**.
 
 ---
+---
+
+## Interface do Vethaka
+
+A interface do Vethaka foi projetada para centralizar os diferentes agentes e funcionalidades do sistema em um único ambiente.
+
+### Home
+
+![Home do Vethaka](assets/home.jpeg)
+
+A tela inicial concentra a visão geral do sistema e o acesso aos principais módulos.
+
+### Hoje
+
+![Tela Hoje do Vethaka](assets/hoje.jpeg)
+
+A área **Hoje** organiza informações e atividades relevantes para o momento atual.
+
+### Carmen
+
+![Carmen](assets/carmen.jpeg)
+
+A **Carmen** é o módulo voltado à gestão das atividades relacionadas ao ensino de espanhol, incluindo alunos, frequência e pagamentos.
+
+### Visão do sistema
+
+![Visão geral do sistema](assets/sistema.jpeg)
+
+Esta tela apresenta uma visão mais ampla da interface e da organização dos módulos do Vethaka.
+
+---
 
 ## Visão Geral da Arquitetura
 
