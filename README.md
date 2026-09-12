@@ -338,21 +338,22 @@ Entre eles:
 
 ## Demonstração
 
-Uma demonstração do Vethaka será disponibilizada neste repositório.
+Vídeo de demonstração do Vethaka:
 
-O vídeo apresentará funcionalidades reais da versão atual do projeto, incluindo:
+[▶ Assistir à demonstração do Vethaka](https://youtu.be/ANVY94CAMMs)
+
+A demonstração apresenta funcionalidades reais da versão atual do projeto, incluindo:
 
 - interface principal;
 - interação com a Wine;
 - comandos por voz;
-- navegação;
+- navegação pelo sistema;
 - módulo Carmen;
-- cadastro e gerenciamento de alunos;
+- gerenciamento de alunos;
 - frequência;
 - pagamentos.
 
-> O Vethaka ainda está em desenvolvimento. A demonstração representa o estado atual do sistema e não um produto finalizado.
-
+> O Vethaka continua em desenvolvimento. A demonstração representa o estado atual do sistema e não um produto finalizado.
 ---
 
 ## Status do Projeto
